@@ -1,0 +1,1 @@
+A collection of deep learning projects and implementations covering core concepts such as neural networks, CNNs, RNNs, transformers, and optimization techniques. Includes code from scratch and with popular libraries (TensorFlow, PyTorch, Keras) along with practical examples for computer vision, NLP, and generative models.
